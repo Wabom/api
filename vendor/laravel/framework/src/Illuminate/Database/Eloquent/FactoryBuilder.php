@@ -6,6 +6,7 @@ use Faker\Generator as Faker;
 use Illuminate\Support\Traits\Macroable;
 use InvalidArgumentException;
 
+
 class FactoryBuilder
 {
     use Macroable;
